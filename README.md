@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()<br><br>
-🔭 I’m currently working on Internship<br>🌱 I’m currently learning JS, NodeJS, Python<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me mohitmungra2003@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
+🔭 I’m currently Studing in Charusat University<br>🌱 I’m currently learning JS, NodeJS, Python<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me mohitmungra2003@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshil-dhandhiya) 
